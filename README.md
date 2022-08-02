@@ -12,7 +12,7 @@ Ideas to add next:
 * [] Command that allows users to search for and play music in the voice channel
 
 ## GIF
-
+GIF showing !gif and !game commands
 <img src='http://g.recordit.co/Q0YoORyBFP.gif'/>
 
 GIF created with Recordit
