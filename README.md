@@ -13,6 +13,6 @@ Ideas to add next:
 
 ## GIF
 GIF showing !gif and !game commands:
-<img src='http://g.recordit.co/Q0YoORyBFP.gif' />
+![](http://g.recordit.co/Q0YoORyBFP.gif)
 
 GIF created with Recordit
