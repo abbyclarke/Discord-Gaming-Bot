@@ -13,6 +13,7 @@ Ideas to add next:
 
 ## GIF
 GIF showing !gif and !game commands:
-![](http://g.recordit.co/Q0YoORyBFP.gif)
+
+![discordbot](https://user-images.githubusercontent.com/91440965/182465860-9c55b9e8-c763-43fc-8377-8d597bae9d65.gif)
 
 GIF created with Recordit
